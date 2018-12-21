@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88b7ba44-42b8-40d9-81f1-91866614ca0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sp.py" beforeDir="false" afterPath="$PROJECT_DIR$/sp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/space_invaders_background.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,31 +12,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Space_Invaders$sp.coverage" NAME="sp Coverage Results" MODIFIED="1545340699421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Space_Invaders$sp.coverage" NAME="sp Coverage Results" MODIFIED="1545341637383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="172" column="40" selection-start-line="172" selection-start-column="40" selection-end-line="172" selection-end-column="40" />
+            <state relative-caret-position="135">
+              <caret line="188" column="34" lean-forward="true" selection-start-line="188" selection-start-column="34" selection-end-line="188" selection-end-column="34" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1545340897626" expanded="true" signature="2164:2169" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
-              <folding>
-                <marker date="1542379469118" expanded="true" signature="1028:1033" ph="..." />
-                <marker date="1542379469118" expanded="true" signature="1114:1119" ph="..." />
+                <marker date="1545341633160" expanded="true" signature="2163:2168" ph="..." />
               </folding>
             </state>
           </provider>
@@ -254,7 +238,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299712" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3299712" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3294964" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.43453237" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3294964" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -346,20 +330,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="610">
           <caret line="75" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <marker date="1542379469118" expanded="true" signature="1028:1033" ph="..." />
-            <marker date="1542379469118" expanded="true" signature="1114:1119" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="172" column="40" selection-start-line="172" selection-start-column="40" selection-end-line="172" selection-end-column="40" />
+        <state relative-caret-position="135">
+          <caret line="188" column="34" lean-forward="true" selection-start-line="188" selection-start-column="34" selection-end-line="188" selection-end-column="34" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1545340897626" expanded="true" signature="2164:2169" ph="..." />
+            <marker date="1545341633160" expanded="true" signature="2163:2168" ph="..." />
           </folding>
         </state>
       </provider>

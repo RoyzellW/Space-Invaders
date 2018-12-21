@@ -177,6 +177,9 @@ turtle.onkeypress(fire_bullet, "space")
 # main game loop
 while True:
 
+    if turtle.onkeypress(move_Up, "Up") and turtle.onkeypress(move_Down, "Down"):
+        move_diagonal()
+
     for enemy in enemies:
         # move enemy
         x = enemy.xcor()
